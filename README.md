@@ -1,5 +1,8 @@
 # next-js-pwa-create-next-app
 NextJS + PWA with create-next-app
 
-Full article on Medium : 
-https://medium.com/@eshwaren/pwa-with-next-js-create-next-app-in-2020-%EF%B8%8F-9ee0e1a6313d
+Git clone: https://github.com/Kiran-neoito/next_pwa.git
+npm i
+npm run build or yarn build
+npm run start or yarn start.
+Go to http://localhost:3000
